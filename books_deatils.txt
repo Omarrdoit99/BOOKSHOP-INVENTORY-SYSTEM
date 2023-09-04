@@ -1,0 +1,3 @@
+Title                 Id             Author             Genre            Price          
+-------------------------------------------------------------------------------
+Atomic Habits         001          James Clear       Self-help book       600    
